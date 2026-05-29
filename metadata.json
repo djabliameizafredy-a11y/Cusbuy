@@ -1,0 +1,6 @@
+{
+  "name": "Cusbuy",
+  "description": "See it. Want it. Buy it. Premium video shopping and local delivery app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
