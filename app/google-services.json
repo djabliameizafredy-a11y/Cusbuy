@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48370436227",
+    "project_id": "cusbuy-1322f",
+    "storage_bucket": "cusbuy-1322f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48370436227:android:92e17c133a7849e7ca73b6",
+        "android_client_info": {
+          "package_name": "com.aistudio.cusbuy.fxyrtw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_juJDRk0AgRLI9HAR2EoS4uSJ9SBJeuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
